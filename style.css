@@ -1,5 +1,5 @@
-sub { 
-    vertical-align: sup;
+sup { 
+    vertical-align: 10px;
     font-size: smaller;
 }
 
