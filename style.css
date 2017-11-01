@@ -41,9 +41,9 @@ h4{
 
 footer {
 	position: relative;
-	margin-top: 10em;
-	padding-top:5px;
-	padding-bottom:0px;
+	margin-top: 2em;
+	padding-top:2em;
+	padding-bottom:2em;
 	text-align:center;
 	height:auto;
 	background-color: rgb(102,48,150);
